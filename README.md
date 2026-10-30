@@ -207,7 +207,3 @@ examples/gui_orbital_defense.lua Keyboard-controlled arcade game example
 tests/                   Runtime and SDK consumer tests
 .github/workflows/       Automated build and test workflow
 ```
-
-## License
-
-Add a project license before distributing the software. Until a license is included, do not assume the repository grants permission to redistribute or modify the code.
